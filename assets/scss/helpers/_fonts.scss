@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('#{$fonts-path}/Lato/black/Lato-Black.eot');
+    src: url('#{$fonts-path}/Lato/black/Lato-Black.eot?#iefix') format('embedded-opentype'),
+        url('#{$fonts-path}/Lato/black/Lato-Black.woff2') format('woff2'),
+        url('#{$fonts-path}/Lato/black/Lato-Black.woff') format('woff'),
+        url('#{$fonts-path}/Lato/black/Lato-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('#{$fonts-path}/Lato/bold/Lato-Bold.eot');
+    src: url('#{$fonts-path}/Lato/bold/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('#{$fonts-path}/Lato/bold/Lato-Bold.woff2') format('woff2'),
+        url('#{$fonts-path}/Lato/bold/Lato-Bold.woff') format('woff'),
+        url('#{$fonts-path}/Lato/bold/Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('#{$fonts-path}/Lato/regular/Lato-Regular.eot');
+    src: url('#{$fonts-path}/Lato/regular/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('#{$fonts-path}/Lato/regular/Lato-Regular.woff2') format('woff2'),
+        url('#{$fonts-path}/Lato/regular/Lato-Regular.woff') format('woff'),
+        url('#{$fonts-path}/Lato/regular/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
